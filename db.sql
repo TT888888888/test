@@ -1,1 +1,1 @@
-select * from book;
+select  id.bookname,price,booktype from book;
